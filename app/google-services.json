@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608659277883",
+    "project_id": "tracktransit-544c2",
+    "storage_bucket": "tracktransit-544c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608659277883:android:87620f4da2f13ca40d341e",
+        "android_client_info": {
+          "package_name": "com.example.tracktransit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608659277883-go32843fms6h5ol9eoodbpr6jchlf03v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw9PnMt0QojXi1JN5qkzJj8WI_56aIiCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608659277883-go32843fms6h5ol9eoodbpr6jchlf03v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
